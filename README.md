@@ -1,5 +1,15 @@
 # 20 Free ChatGPT Prompts for Freelancers
 
+<p align="center"><img src="banner.svg" alt="20 free ChatGPT prompts for freelancers" width="100%"></p>
+
+<p align="center">
+<a href="LICENSE"><img alt="License: CC BY 4.0" src="https://img.shields.io/badge/license-CC%20BY%204.0-f2762e"></a>
+<img alt="Free" src="https://img.shields.io/badge/price-free-1f7a6e">
+<img alt="Works with ChatGPT, Claude, Gemini" src="https://img.shields.io/badge/works%20with-ChatGPT%20%7C%20Claude%20%7C%20Gemini-24304a">
+<a href="https://github.com/smartebookshelf/chatgpt-prompts-for-freelancers/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/smartebookshelf/chatgpt-prompts-for-freelancers?style=flat&color=ffb347"></a>
+<a href="https://bestbookdotcom.gumroad.com/l/ai-side-income-playbook"><img alt="Smart Ebook Shelf" src="https://img.shields.io/badge/by-Smart%20Ebook%20Shelf-ff8a3d"></a>
+</p>
+
 **20 copy-paste prompts for ChatGPT, Claude and Gemini** that help freelancers find clients, write proposals, price their work, deliver faster and get paid. Works with the free versions.
 
 Fill in the **[brackets]**, paste, and review the answer before you send anything.
@@ -77,6 +87,35 @@ Fill in the **[brackets]**, paste, and review the answer before you send anythin
 
 **20. Weekly freelance plan**
 > I have [HOURS] hours this week. Active projects: [LIST WITH DEADLINES]. Lead generation goal: [GOAL]. Build a day-by-day plan that protects deep-work time, schedules outreach, and leaves a buffer for revisions.
+
+---
+
+## FAQ
+
+### Can I use ChatGPT to write Upwork or Fiverr proposals?
+
+Yes, as a first draft. Always add your real experience, check every detail and make it specific to the job. Generic AI proposals get ignored.
+
+### Do these prompts work with the free version of ChatGPT?
+
+Yes. They work with the free versions of ChatGPT, Claude and Gemini.
+
+### How do I get better answers from these prompts?
+
+Fill every [bracket] with specific details, add one example of work you like, and ask the AI to improve its answer once before you use it.
+
+---
+
+## More free AI resources
+
+- **[Free Claude Skills: viral hooks, email replies and client proposals](https://github.com/smartebookshelf/free-claude-skills)**
+- **[30 free AWS Cloud Practitioner (CLF-C02) practice questions + cheat sheet](https://github.com/smartebookshelf/aws-cloud-practitioner-practice-questions)**
+- **[30 free AI video prompts for Veo, Sora, Kling and Runway](https://github.com/smartebookshelf/ai-video-prompts)**
+- **[20 free AI prompts for teachers](https://github.com/smartebookshelf/ai-prompts-for-teachers)**
+- **[20 free ChatGPT prompts to make money online](https://github.com/smartebookshelf/chatgpt-prompts-to-make-money)**
+- **[2 free no-code AI agent templates](https://github.com/smartebookshelf/no-code-ai-agent-templates)**
+- **[Which AI model should I use: ChatGPT vs Claude vs Gemini](https://github.com/smartebookshelf/which-ai-model-should-i-use)**
+- **[All Smart Ebook Shelf books and free PDFs](https://bestbookdotcom.gumroad.com/)**
 
 ---
 
